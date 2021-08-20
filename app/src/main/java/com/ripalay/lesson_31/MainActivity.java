@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         Country olkrain = new Country(R.drawable.ic_ua, "Украина", "Киев");
 
         Country kyrgyzstan = new Country(R.drawable.ic_ky, "Кыргызстан", "Бишкек");
-        Country chill = new Country(R.drawable.ic_be, "Чилли", "Сантьяго");
+        Country chill = new Country(R.drawable.ic_chill, "Чилли", "Сантьяго");
 
         Country usa = new Country(R.drawable.ic_us, "Америка", "Вашингтон");
 
